@@ -24,9 +24,9 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
+  ────  *AGROMOS ┃ ᴮᴼᵀ*  ────
 
-👋🏻 _Hola_ *%name*
+👋🏻 _Holis_ *%name*
 
 🏆 Rango : *%role*
 🧿 Nivel : *%level* 
@@ -146,9 +146,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
   //const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
-const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
+const pp = await (await fetch('https://i.ibb.co/1RS6nJf/Screenshot-20220519-091526.jpg')).buffer()
     
-    conn.sendHydrated(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, 'https://youtube.com/fg98f', 'YouTube', null, null, [
+    conn.sendHydrated(m.chat, text.trim(), '▢ Agromos ┃ ᴮᴼᵀ\n▢ Sígueme en Youtube AGROMOS YT._\n', pp, '', 'YouTube', null, null, [
       ['ꨄ︎ Apoyar', '/donate'],
       ['⏍ Info', '/botinfo'],
       ['✆ Owner', '/owner']
