@@ -1,24 +1,19 @@
-# dylux-fg
-
-<a href="https://github.com/FG98F/dylux-fg/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FG98F/dylux-fg?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/FG98F/dylux-fg/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/FG98F/dylux-fg?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/FG98F/dylux-fg/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-fg?label=Stars&color=yellow&style=flat-square"></a>
+# AGROMOS
+Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_
 
 
+
+
+Necesitamos que nos DONES lo que puedas donar para comprar un mejor servidor y el bot este activo 24/7 https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC
 
 
 ## Únete al grupo
-[![WhatsApp](https://img.shields.io/badge/DyLux-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instabio.cc/fg98ff) 
+[![WhatsApp](https://chat.whatsapp.com/CBoAGmEFcCy44xIoWBSgzJ)
 
 
-#### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FG98F/dylux-fg)
 
-#### Heroku Buildpack
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+
+
 
 ### TERMUX
 1. Escriba los comandos que se mencionan a continuación uno por uno en Termux.
@@ -28,8 +23,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/FG98F/dylux-fg
-$ cd dylux-fg
+$ git clone https://github.com/AgromosSpboy/AGROMOS_BOT3
+$ cd AGROMOS_BOT3
 $ npm i 
 $ npm start
 ```
@@ -49,14 +44,11 @@ $ yarn install
 
 ## PARA USUARIO DE WINDOWS/VPS/RDP
 
-* Descargar e instalar Git [`Click aquí`](https://git-scm.com/downloads)
-* Descargar e instalar NodeJS [`Click aquí`](https://nodejs.org/en/download)
-* Descargar e instalar FFmpeg [`Click aquí`](https://ffmpeg.org/download.html)
-* Descargar e instalar ImageMagick [`Click aquí`](https://imagemagick.org/script/download.php)
+
 
 ```bash
-git clone https://github.com/FG98F/dylux-fg
-cd dylux-fg
+git clone https://github.com/AgromosSpboy/AGROMOS_BOT3
+cd AGROMOS_BOT3
 npm install
 npm update
 ```
