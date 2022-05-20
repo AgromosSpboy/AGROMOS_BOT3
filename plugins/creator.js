@@ -4,30 +4,31 @@ function handler(m) {
   
   m.reply(`
 *≡ OWNER*
-  *FG98*
+  *AGROMOS*
 ▢ Instagram :
-  • https://instagram.com/fg98._
-▢ WhatsApp :
-  • (escribe solo si es necesario) 
+  • no hay :v
+▢ WhatsApp grupo:
+
+  • https://chat.whatsapp.com/CBoAGmEFcCy44xIoWBSgzJ
 ▢ GitHub :
-  • https://github.com/FG98F
+  • https://github.com/AgromosSpboy/AGROMOS_BOT3
 ▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+  • 
+  • no hay :v
+  • 
 ▢ Facebook : 
-  • https://facebook.com/fg98ff/
-  • https://facebook.com/fg98A/
+  • no hay
+  • 
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://youtube.com/channel/UCYfOaeRkOwMXzLxx11nwecA
   
- *≡ HELPERS*
-  *CRISS*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
-▢ WhatsApp : wa.me/
-  *ANDREA*
-▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+ 
+  *Creador*
+▢ 
+▢ WhatsApp : wa.me/595983186566
+  *Creador²*
+▢ 
+▢ WhatsApp : wa.me/523931806576
 `) 
 
 
