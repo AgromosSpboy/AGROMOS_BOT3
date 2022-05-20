@@ -7,7 +7,7 @@ let m2 = `
 ≡ _Use estos comandos sin el prefijo_
 
 ▢ Si tienes más  audios  
-envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
+envíame por t el *audio + comando* con en el que responderá
 *No* _voces de lolis_
 
 
@@ -20,9 +20,9 @@ envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
 ┌─⊷ *VIDEO/GIF* 
 ▢ Linda noche
 └──────────────`
-const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
+const pp = await (await fetch('https://i.ibb.co/1RS6nJf/Screenshot-20220519-091526.jpg')).buffer()
     
-    conn.sendHydrated(m.chat, m2, '▢ AFROMOS  ┃ ᴮᴼᵀ\n▢ Sígueme en Youtube AGROMOS YT._\n', pp, '', 'YouTube', null, null, [
+    conn.sendHydrated(m.chat, m2, '▢ AGROMOS  ┃ ᴮᴼᵀ\n▢ Sígueme en Youtube AGROMOS YT._\n', pp, '', 'YouTube', null, null, [
      ['⏍ Info', '/botinfo'],
       ['⌬ Grupos', '/gpdylux']
     ], m)
