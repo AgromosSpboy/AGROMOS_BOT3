@@ -33,6 +33,8 @@ const defaultMenu = {
 🧿 Nivel : *%level* 
 📊 Database: %rtotalreg de %totalreg
 ─────────────
+Numero del Bot Oficial:http://wa.me/595983186566?text=pendeja
+Numero del sub bot Oficial: sëmürïø
 ▢ Crea tu propio bot 
 • https://youtube.com/channel/UCYfOaeRkOwMXzLxx11nwecA
 ▢ Descarga 
